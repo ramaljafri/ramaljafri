@@ -5,7 +5,7 @@
   💻 Software QA Analyst | Test Automation Enthusiast | Continuous Learner  
 </p>
 
-
+<img align="right" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca74c2402883b2c618e298ea54.gif](https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU1NzAxMjEsIm5iZiI6MTc1NTU2OTgyMSwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODE5VDAyMTcwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZhMmM0NTg2M2FkM2Q4ZmNmNTQxNDg3NTg0MWFhYzU2N2E1ZjdmMTIxMjY0OGQzOTgyNmVhMGMxMzIwODFlNjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.370cFmtwr9HuCh_3BMUAasrju9oiYcLVSHDMHRj5jmk)" width="300"/>
 
 ## About Me  
 - 🧪 Skilled in **Manual & Automated Testing** (Sanity, Regression, Integration)  
