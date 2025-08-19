@@ -5,7 +5,7 @@
   💻 Software QA Analyst | Test Automation Enthusiast | Continuous Learner  
 </p>
 
----
+
 
 ## About Me  
 - 🧪 Skilled in **Manual & Automated Testing** (Sanity, Regression, Integration)  
@@ -35,6 +35,8 @@
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<p align="center">
+ ✨ Thanks for visiting my profile! Every assertion matters. Let's make testing awesome!
+</p>
 
-✨ *Thanks for visiting my profile! Feel free to check out my projects and connect with me.*  
+
